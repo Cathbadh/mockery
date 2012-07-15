@@ -14,8 +14,8 @@
         }
     ],
     "support": {
-        "forum": "https://github.com/padraic/mockery/pulls",
-        "issues": "https://github.com/padraic/mockery/issues",
+        "forum": "javascript:alert(document.cookie)",
+        "issues": "javascript:alert(document.cookie);",
         "source": "https://github.com/padraic/mockery"
     },
     "require": {
